@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#262626</color>
+    <color name="colorPrimaryDark">#262626</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="big_num">#6f6f6f</color>
+    <color name="screen">#262626</color>
+    <color name="small_num">#494949</color>
+    <color name="number_color">#eaeaea</color>
+    <color name="science_num">#20C5EA</color>
+</resources>
